@@ -17,5 +17,6 @@ De bronbestanden staan in de app-repo `LRvdLinden/p2000-apeldoorn` (branch `a-al
 ## Weekdot
 - `Weekdot/AppStore/`: App Store-pakket voor versie 1.0.3, in drie losse zips vanwege de limiet van 100 MB per bestand op GitHub: `-NL`, `-EN-US` en `-EN-GB`. Elke zip bevat de screenshots van die taal voor iPhone, iPad, Mac en Apple Watch, plus de teksten met Wat is nieuw. NL en EN-US bevatten ook de promobeelden, het icoon en de review-notities. EN-GB is optioneel, met dezelfde tekst en schermen als EN-US.
 - `Weekdot/Socials/`: banners (Instagram/Facebook post 1:1 en 4:5, story/reels, Facebook- en LinkedIn-cover, Homey-forumbanner) met postteksten en alt-teksten (NL), plus de OG-afbeeldingen van weekdot.com (NL en EN).
+- `Weekdot/Homey/`: Store-assets van de Homey-app `nl.lrvdlinden.weekdot` 1.0.2: icon.svg, app-afbeeldingen small/large/xlarge, previews van de 7 widgets (licht en donker), de forumbanner en het forumtopic met de changelog.
 
-De bronbestanden staan in de app-repo `LRvdLinden/weekdot` (`appstore/`, `social/` en `website/og/`).
+De bronbestanden staan in de app-repo `LRvdLinden/weekdot` (`appstore/`, `social/`, `website/og/` en `nl.lrvdlinden.weekdot/`).
