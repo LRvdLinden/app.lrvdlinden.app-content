@@ -45,3 +45,10 @@ De bronbestanden staan in de app-repo `LRvdLinden/DevTools` (`AppStore/` en `nl.
 - `Tunr/Socials/`: banners in NL en EN (Instagram/Facebook-post 1:1 en 4:5, story/reels, Facebook- en LinkedIn-cover) met postteksten en alt-teksten, plus de OG-afbeelding van tunr.online.
 
 De bronbestanden staan in `LRvdLinden/int-radio-app` (`social/` en `tools/make_social.py`) en `LRvdLinden/tunr-beheer` (`appstore/tunr/en`).
+
+## HealthSync
+- `HealthSync/AppStore/`: App Store-pakket van de iPhone-app HealthSync, in twee losse zips per taal (`-NL` en `-EN`). Elke zip bevat de screenshots van die taal voor alle iPhone-formaten (6.9", 6.5", 6.3", 6.1" en 5.5"), de productpagina-headers (met iPhones en als artwork, 5244×2950 en 3840×1646), de App Store-teksten (inclusief Wat is nieuw voor 1.0.1), het privacybeleid, de App Store Connect-instellingen met review-notities en het app-icoon.
+- `HealthSync/Socials/`: banners voor HealthSync en Apple Health voor Homey samen (Instagram/Facebook post 1:1 en 4:5, story/reels, Facebook- en LinkedIn-cover, Homey-forumbanner) in NL en EN, met postteksten en alt-teksten.
+- `HealthSync/Homey/`: Store-assets van de Homey-app `nl.lrvdlinden.applehealth` 1.0.3: app-icoon en afbeeldingen small/large/xlarge, het driver-icoon en de driverafbeeldingen, previews van de 14 widgets (licht en donker), de capability-iconen, de forumbanners (NL en EN) en het forumtopic met de changelog.
+
+De bronbestanden staan in de app-repo's `LRvdLinden/Apple-HealthSync-ios` (`appstore/`) en `LRvdLinden/Apple-HealthSync-Homey` (`assets/`, `drivers/`, `widgets/`).
