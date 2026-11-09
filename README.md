@@ -32,3 +32,10 @@ De bronbestanden staan in de app-repo `LRvdLinden/kidschess` (`AppStore/`, `soci
 - `VlagDagen/Socials/`: banners (Instagram/Facebook-post 1:1 en 4:5, story/reels, Facebook- en LinkedIn-cover) en de OG-afbeelding voor vlagdagen.nl, met postteksten en alt-teksten (NL).
 
 De bronbestanden staan in de app-repo `LRvdLinden/nl.lrvdlinden.vlagdagen` (`AppStore/` en `social/`).
+
+## DevTools
+- `DevTools/AppStore/`: App Store-pakket voor versie 1.0.2 (build 23), Engels (en-US). Bevat de screenshots voor iPhone 6.9" en 6.3", iPad 13", Mac (2880×1800 en 1280×800) en Apple Watch (Ultra en Series), de productpagina-beelden (header, zoekresultaten, universal), de promobeelden, de teksten in `metadata/` (naam, ondertitel, promotietekst, beschrijving, trefwoorden, Wat is nieuw, URL's), de review-notities, de README met alle App Store Connect-velden en de CHANGELOG.
+- `DevTools/Socials/`: banners in NL en EN voor Instagram/Facebook (post 1:1 en 4:5) en story/reels, in drie onderwerpen (overzicht, statistieken, reviews), plus de Homey-forumbanner. Per taal een `posts.md` met postteksten en alt-teksten.
+- `DevTools/Homey/`: Store-assets van de Homey-app `nl.lrvdlinden.appstoreconnect` (App Store Connect) 1.1.1: icon.svg, app-afbeeldingen small/large/xlarge, de iconen en afbeeldingen van beide drivers (App Store-app en Alle apps), previews van de 3 widgets (licht en donker), de forumbanner en het forumtopic met de changelog.
+
+De bronbestanden staan in de app-repo `LRvdLinden/DevTools` (`AppStore/` en `nl.lrvdlinden.appstoreconnect/`).
