@@ -58,3 +58,8 @@ De bronbestanden staan in de app-repo's `LRvdLinden/Apple-HealthSync-ios` (`apps
 - `Liftr/Socials/`: banners in NL en EN voor Instagram/Facebook (post 1:1 en 4:5), story/reels en de Facebook- en LinkedIn-cover, met per taal een `posts.md` met postteksten en alt-teksten. De link op de banners is liftr.nu.
 
 De bronbestanden staan in de app-repo `LRvdLinden/nl.lrvdlinden.liftr` (`AppStore/`, `social/`, `tools/appstore/` en `tools/social/`).
+## Bingr
+- `Bingr/AppStore/`: App Store-pakket voor versie 1.0.5, in twee losse zips per taal (`-NL` en `-EN-US`) vanwege de limiet van 100 MB per bestand op GitHub. Elke zip bevat de screenshots van die taal voor iPhone 6,3" en 6,1", iPad 13", Apple TV en Mac, de promobeelden, de teksten (met de definitieve Wat is nieuw van 1.0.5), app-info, privacy en de review-notities (zonder wachtwoord van het demo-account).
+- `Bingr/Socials/`: banners voor algemene promotie (Instagram/Facebook post 1:1 en 4:5, story/reels, Facebook- en LinkedIn-cover) in NL en EN, met postteksten en alt-teksten.
+
+De bronbestanden staan in de app-repo `LRvdLinden/iptv-ios-appletv` (`AppStore/` en `social/`).
