@@ -26,3 +26,9 @@ De bronbestanden staan in de app-repo `LRvdLinden/weekdot` (`appstore/`, `social
 - `Simple Chess/Socials/`: banners voor Instagram/Facebook (post 1:1 en 4:5) en story/reels in NL en EN, met postteksten en alt-teksten.
 
 De bronbestanden staan in de app-repo `LRvdLinden/kidschess` (`AppStore/`, `social/` en `tools/`).
+
+## VlagDagen
+- `VlagDagen/AppStore/`: App Store-pakket voor versie 2.0.1. Bevat screenshots voor iPhone 6,3" (1206 × 2622) en iPad 13" (2064 × 2752), promobanners (5244 × 2950, 3840 × 1646, 3840 × 2560 en 1920 × 1280), het app-icoon, de App Store-teksten (NL) en de changelog.
+- `VlagDagen/Socials/`: banners (Instagram/Facebook-post 1:1 en 4:5, story/reels, Facebook- en LinkedIn-cover) en de OG-afbeelding voor vlagdagen.nl, met postteksten en alt-teksten (NL).
+
+De bronbestanden staan in de app-repo `LRvdLinden/nl.lrvdlinden.vlagdagen` (`AppStore/` en `social/`).
