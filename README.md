@@ -63,3 +63,9 @@ De bronbestanden staan in de app-repo `LRvdLinden/nl.lrvdlinden.liftr` (`AppStor
 - `Bingr/Socials/`: banners voor algemene promotie (Instagram/Facebook post 1:1 en 4:5, story/reels, Facebook- en LinkedIn-cover) in NL en EN, met postteksten en alt-teksten.
 
 De bronbestanden staan in de app-repo `LRvdLinden/iptv-ios-appletv` (`AppStore/` en `social/`).
+
+## PixelForges
+- `PixelForges/OG/`: OG-afbeelding van pixelforges.nl (NL, 1200×630), gebruikt op de homepage en de privacypagina, met een README per afbeelding (pagina, taal, formaat, alt-tekst).
+- `PixelForges/Socials/`: banners in de PixelForges-huisstijl (NL): Instagram/Facebook-post 1:1, portfolio- en prijzen-post 4:5, story/reels, Facebook-omslag, LinkedIn-bedrijfsbanner en persoonlijke achtergrond, X-header, profielfoto's, webbanners (728×90, 970×250, 300×250, 160×600), presentatiedia 1920×1080, e-mailhandtekening en logo's, met `posts.md` met postteksten en alt-teksten. De kleinere formaten ook in `2x/`.
+
+De bronbestanden staan in de site-repo `LRvdLinden/pixelforges` (`brand/templates/`, `brand/render.py` en `site/og.png`).
