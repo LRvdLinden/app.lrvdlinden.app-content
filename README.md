@@ -52,3 +52,9 @@ De bronbestanden staan in `LRvdLinden/int-radio-app` (`social/` en `tools/make_s
 - `HealthSync/Homey/`: Store-assets van de Homey-app `nl.lrvdlinden.applehealth` 1.0.3: app-icoon en afbeeldingen small/large/xlarge, het driver-icoon en de driverafbeeldingen, previews van de 14 widgets (licht en donker), de capability-iconen, de forumbanners (NL en EN) en het forumtopic met de changelog.
 
 De bronbestanden staan in de app-repo's `LRvdLinden/Apple-HealthSync-ios` (`appstore/`) en `LRvdLinden/Apple-HealthSync-Homey` (`assets/`, `drivers/`, `widgets/`).
+
+## Liftr
+- `Liftr/AppStore/`: App Store-pakket voor versie 1.0.0, in NL en EN. Bevat screenshots voor iPhone 6,3" en 6,1", iPad 13" en Apple Watch (6 maten), promobeelden (header 5244×2950 en 3840×1646, zoekresultaten 5244×2950, 3840×2560 en 1920×1280), de teksten in `metadata/` (naam, ondertitel, promotietekst, beschrijving, trefwoorden, Wat is nieuw, URL's), de review-notities, de privacyverklaring en `app-info.md` met categorie, leeftijd, privacylabel, toegankelijkheid en de medische-hulpmiddelverklaring.
+- `Liftr/Socials/`: banners in NL en EN voor Instagram/Facebook (post 1:1 en 4:5), story/reels en de Facebook- en LinkedIn-cover, met per taal een `posts.md` met postteksten en alt-teksten. De link op de banners is liftr.nu.
+
+De bronbestanden staan in de app-repo `LRvdLinden/nl.lrvdlinden.liftr` (`AppStore/`, `social/`, `tools/appstore/` en `tools/social/`).
