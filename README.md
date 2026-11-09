@@ -78,6 +78,7 @@ De bronbestanden staan in de site-repo `LRvdLinden/app.lrvdlinden` (`social/`, `
 
 ## Bekendr
 - `Bekendr/AppStore/`: App Store-pakket voor versie 1.0.0 (build 1). Bevat screenshots (alleen NL, de app is alleen Nederlandstalig) voor iPhone 6,3" (1206×2622) en 6,1" (1179×2556), iPad 13" (2064×2752) en 12,9" (2048×2732) en Mac (2880×1800, 2560×1600, 1440×900, 1280×800), de productpagina-beelden (header 5244×2950 en 3840×1646, zoekresultaten 5244×2950, 3840×2560 en 1920×1280), de teksten in NL en EN in `metadata/` (naam, ondertitel, promotietekst, beschrijving, trefwoorden, Wat is nieuw, URL's), de privacyverklaring, de review-notities en `app-info.md` met categorie, leeftijd, privacylabel en toegankelijkheid.
-- `Bekendr/Socials/`: banners (NL, algemene promotie van app en website) voor Instagram/Facebook (post 1:1 en 4:5), story/reels, LinkedIn-post, X/Bluesky/Threads, Facebook-cover en LinkedIn-cover, met `posts.md` met postteksten en alt-teksten.
+- `Bekendr/Socials/`: banners (NL, algemene promotie van app en website) voor Instagram/Facebook (post 1:1 en 4:5), story/reels, LinkedIn-post, X/Bluesky/Threads, Facebook-cover en LinkedIn-cover, met `posts.md` met postteksten en alt-teksten. De zip met `-2` is de bijgewerkte set met "Download in de App Store en Google Play".
+- `Bekendr/OG/`: OG-afbeelding van bekendr.lrvdlinden.app (NL, 1200×630) voor de homepage, privacy en support.
 
-De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.bekendr` (`AppStore/` en `social/`).
+De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.bekendr` (`AppStore/`, `social/` en `website/og/`).
