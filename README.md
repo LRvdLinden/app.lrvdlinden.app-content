@@ -69,3 +69,9 @@ De bronbestanden staan in de app-repo `LRvdLinden/iptv-ios-appletv` (`AppStore/`
 - `PixelForges/Socials/`: banners in de PixelForges-huisstijl (NL): Instagram/Facebook-post 1:1, portfolio- en prijzen-post 4:5, story/reels, Facebook-omslag, LinkedIn-bedrijfsbanner en persoonlijke achtergrond, X-header, profielfoto's, webbanners (728×90, 970×250, 300×250, 160×600), presentatiedia 1920×1080, e-mailhandtekening en logo's, met `posts.md` met postteksten en alt-teksten. De kleinere formaten ook in `2x/`.
 
 De bronbestanden staan in de site-repo `LRvdLinden/pixelforges` (`brand/templates/`, `brand/render.py` en `site/og.png`).
+
+## lrvdlinden.app
+- `lrvdlinden.app/OG:image/`: de OG-afbeeldingen van lrvdlinden.app per datum: NL (live op de site), EN en de vierkante versie (1080×1080).
+- `lrvdlinden.app/Socials/`: banners voor algemene promotie in NL en EN (Instagram/Facebook post 1:1 en 4:5, story/reels, LinkedIn-post, X/Bluesky/Threads, Facebook- en LinkedIn-cover), met per taal een `posts.md` met postteksten en alt-teksten.
+
+De bronbestanden staan in de site-repo `LRvdLinden/app.lrvdlinden` (`social/`, `tools/social/` en `site/og-image*.jpg`).
