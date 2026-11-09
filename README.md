@@ -39,3 +39,9 @@ De bronbestanden staan in de app-repo `LRvdLinden/nl.lrvdlinden.vlagdagen` (`App
 - `DevTools/Homey/`: Store-assets van de Homey-app `nl.lrvdlinden.appstoreconnect` (App Store Connect) 1.1.1: icon.svg, app-afbeeldingen small/large/xlarge, de iconen en afbeeldingen van beide drivers (App Store-app en Alle apps), previews van de 3 widgets (licht en donker), de forumbanner en het forumtopic met de changelog.
 
 De bronbestanden staan in de app-repo `LRvdLinden/DevTools` (`AppStore/` en `nl.lrvdlinden.appstoreconnect/`).
+
+## Tunr
+- `Tunr/AppStore/`: App Store-pakket voor versie 1.0.0 (build 51): Engelse screenshots uit de echte app voor iPhone 6,9" en 6,3", iPad 13", Mac en Apple TV, de Apple TV-merkbeelden (Top Shelf, app-iconen), promobeelden (header en zoekresultaten), het app-icoon en de App Store-teksten in NL en EN. Nog zonder Apple Watch-screenshots.
+- `Tunr/Socials/`: banners in NL en EN (Instagram/Facebook-post 1:1 en 4:5, story/reels, Facebook- en LinkedIn-cover) met postteksten en alt-teksten, plus de OG-afbeelding van tunr.online.
+
+De bronbestanden staan in `LRvdLinden/int-radio-app` (`social/` en `tools/make_social.py`) en `LRvdLinden/tunr-beheer` (`appstore/tunr/en`).
