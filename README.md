@@ -2,6 +2,8 @@
 
 Marketingmateriaal per app: App Store-pakketten en social-media-content, als zip per datum.
 
+Indeling: `<App>/<Soort>/<JJJJ-MM-DD>/`. In elke datummap staat de zip en ernaast een map met dezelfde naam (zonder `.zip`) met de uitgepakte inhoud, zodat je de bestanden direct op GitHub kunt bekijken.
+
 ## Pasr
 - `Pasr/AppStore/`: App Store-pakket (screenshots per toestel, promobeelden, teksten NL en EN, review-notities, privacy).
 - `Pasr/Socials/`: banners en postteksten voor Instagram/Facebook (post en story), met alt-teksten.
