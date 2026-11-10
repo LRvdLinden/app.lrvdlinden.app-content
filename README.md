@@ -84,3 +84,8 @@ De bronbestanden staan in de site-repo `LRvdLinden/app.lrvdlinden` (`social/`, `
 - `Bekendr/OG/`: OG-afbeelding van bekendr.lrvdlinden.app (NL, 1200×630) voor de homepage, privacy en support.
 
 De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.bekendr` (`AppStore/`, `social/` en `website/og/`).
+
+## René Smaal Karate
+- `René Smaal Karate/Socials/`: banners voor algemene promotie van renesmaal.nl (Stichting RSK Apeldoorn) in het Nederlands: Instagram/Facebook-post 1:1 en 4:5, story/reels, LinkedIn-post en de Facebook- en LinkedIn-cover, in de huisstijl van de site (navy, Barlow/Barlow Condensed, clublogo). Met `posts.md` met postteksten en alt-teksten. De links op de banners zijn renesmaal.nl en renesmaal.nl/proefles.
+
+Er is geen repo voor deze website; de bronbestanden (`bron/build.py` en het logo) zitten in de zip zelf.
