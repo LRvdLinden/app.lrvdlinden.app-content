@@ -1,0 +1,64 @@
+A-Alerts (formerly P2000 Apeldoorn) shows live what happens in the municipality of Apeldoorn and Teuge in the Netherlands: alerts from the fire brigade, ambulance, police and trauma helicopter, together with NL-Alert, Burgernet, AMBER Alert, Missing Child Alert, KNMI weather warnings and the latest news.
+
+LIVE PAGER
+• Every P2000 alert for 26 towns and hamlets, grouped by day
+• NL-Alert and Burgernet between the alerts, with the time of the warning
+• A KNMI warning (code yellow, orange or red) as a bar at the top while it applies
+• All warnings of the last two weeks
+• Hide alerts you have already seen: when you are up to date you see "You're all caught up"
+
+NEWS
+• Police news about Apeldoorn and its villages (source politie.nl)
+• 112 Nieuws per place, with a link to the full article
+• An article for every KNMI weather warning
+• Live blogs for Burgernet, AMBER Alert and Missing Child Alert: a timeline with the newest message on top
+
+AMBER ALERT AND MISSING CHILD ALERT
+• Police calls for a missing child, with photo and description while the call runs
+• Their own notification, a bar at the top and a button to call 112 or 0800-6070 right away
+• When the call ends, the photo and description disappear automatically
+
+MAP WITH LAYERS AND FILTERS
+• Filter with one tap on fire, ambulance, police, trauma helicopter, Burgernet and NL-Alert
+• Switch on or off: KNMI areas, the border of the area, stations, hospitals and air bases
+• Lifeliner 1 to 4 and the police helicopters live, moving smoothly, with heading, altitude and speed
+
+LIFELINER AND POLICE HELICOPTER
+• Route of this flight, the last 30 minutes or 2 hours
+• Likely destination: the hospital or base it is heading for, with arrival time
+• Play back flights at 30× to 300× speed
+• A notification when a Lifeliner takes off for an alert in Apeldoorn
+
+EVERY DETAIL
+• Large map with Look Around and 3D
+• Alerted stations with their route and an estimated arrival time
+• The alert's Lifeliner live on the map, with its route
+• Timeline of alerts that may belong to the same incident
+• Capcodes, vehicles and the weather at the time of the alert
+• Route via Apple Maps or Google Maps, and share with one tap
+
+WARNINGS
+• The same detail page for NL-Alert, Burgernet and KNMI: map with the area or place, the message and the weather
+• KNMI as on knmi.nl: headline, description, risks and advice, and the course per code
+• Live weather for a weather code; lifted warnings show code green, with the code that applied
+
+NOTIFICATIONS
+• Set up your own notification profile in a few steps on first launch
+• Up to five notification profiles with their own places, services, priorities, warnings and times
+• Follow a capcode with a star, for example your own fire station, also outside your places and radius
+• KNMI: also a notification one hour before a code starts and when it is lifted
+• No notification? The alert tells you why
+• Notifications with a small map and buttons to save or open in Apple Maps
+• My area: only alerts within a radius around you
+
+EVERYWHERE
+• iPhone, iPad, Mac, Apple Watch and Apple TV (control-room view)
+• Widgets, iCloud sync of your settings and Face ID lock
+• Status of every component in Settings and at a-alerts.nl/status
+• Help and FAQ in the app and at a-alerts.nl/hulp
+
+No account, no ads and no tracking. The app is available in Dutch and English.
+
+A-Alerts is independent and not an official service of the emergency services or the government. Not every alert goes through P2000. In an emergency, always call 112.
+
+Made by PixelForges. More apps by the developer are listed in the app's Settings.

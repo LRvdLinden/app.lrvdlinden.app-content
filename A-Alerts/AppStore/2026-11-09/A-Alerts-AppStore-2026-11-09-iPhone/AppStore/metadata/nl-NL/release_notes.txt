@@ -1,0 +1,9 @@
+Nieuw: het tabblad Nieuws, en AMBER Alert en Vermist Kind Alert.
+• Tabblad Nieuws: politieberichten over Apeldoorn, de dorpen en buurtschappen (bron politie.nl), 112 Nieuws per plaats, een artikel bij elke KNMI-weerwaarschuwing en een liveblog bij elke Burgernet-melding
+• Liveblogs met een tijdlijn, nieuwste bericht bovenaan, aangevuld met extra informatie, foto's en links
+• AMBER Alert en Vermist Kind Alert: eigen pushmelding, balk bovenaan, foto en signalement zolang de oproep loopt, en een knop om direct te bellen
+• Burgernet als tijdlijn: startbericht, updates en afloopbericht met plaats en tijd
+• Nieuwe pushschakelaars bij Instellingen › Pushmeldingen › Nieuws: Liveblogs, Politienieuws en 112 Nieuws
+• Gedeelde links openen direct in de app; artikelen delen met hun eigen afbeelding
+• Route naar een incident via Apple Kaarten of Google Maps, of kopieer het adres
+• Nieuws ook op Apple TV, Apple Watch en a-alerts.nl/nieuws
