@@ -1,0 +1,6 @@
+New in this version:
+
+• Homey: choose whether Weekdot sends the coming 1, 2 or 3 months to your Homey (Settings › Homey). Together with the Weekdot app for Homey, Flows can now remind you days or weeks before an appointment.
+• Small improvements and fixes.
+
+Enjoying Weekdot? A rating in the App Store helps a lot. Thank you!
