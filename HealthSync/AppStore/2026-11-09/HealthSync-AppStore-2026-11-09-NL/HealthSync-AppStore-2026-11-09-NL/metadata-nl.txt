@@ -1,0 +1,89 @@
+App Store Connect – HealthSync (Nederlands)
+===========================================
+
+Naam (max 30)
+HealthSync
+
+Subtitel (max 30)
+Gezondheidsdata naar je Homey
+
+Promotietekst (max 170)
+Stappen, hartslag, slaap, workouts en 180+ andere gezondheidswaarden in je Homey. Start Flows, toon widgets en houd je data privé.
+
+Trefwoorden (max 100 bytes, no spaces after commas)
+healthkit,homey,slim huis,domotica,automatisering,flow,stappen,hartslag,slaap,hrv,workout,athom
+
+Support-URL
+https://community.homey.app/t/app-pro-apple-health/160608
+
+Marketing-URL
+https://github.com/LRvdLinden/Apple-HealthSync-ios
+
+Privacybeleid-URL
+https://lrvdlinden.github.io/Apple-HealthSync-ios/privacy-nl.html
+(host privacy-policy/privacy-nl.html hier, bijv. via GitHub Pages)
+
+Nieuw in deze versie
+Eerste versie van HealthSync voor Homey.
+
+• Synchroniseer Apple Health-data naar je eigen Homey
+• 180+ soorten gezondheidsdata, alleen-lezen
+• Automatisch synchroniseren elke 5 tot 60 minuten
+• Direct updates voor hartslag, slaap en workouts
+• Donkere modus en 13 talen
+
+Beschrijving (max 4000)
+-----------------------------------------
+HealthSync verbindt de gezondheidsdata op je iPhone met je Homey slimme huis. Stappen, hartslag, slaap, workouts, zuurstofgehalte en meer dan 180 andere soorten data komen als live waarden in Homey binnen, zodat je huis kan reageren op hoe het met je gaat.
+
+WAT JE ERMEE KUNT
+• Zet de slaapkamerlampen zacht aan als je wakker wordt
+• Start het koffiezetapparaat als je slaap voorbij is
+• Speel een geluid af als je alle drie de activiteitsringen sluit
+• Krijg een melding als je hartslag boven een zelfgekozen waarde komt
+• Toon mooie gezondheidswidgets op je Homey-dashboard
+• Bewaar je historie in Homey Insights
+
+ZO WERKT HET
+1. Installeer de gratis Apple Health-app op je Homey en voeg het apparaat toe.
+2. Kopieer de privé Sync-URL uit de apparaatinstellingen.
+3. Plak deze in HealthSync en kies welke gezondheidsdata je wilt delen.
+Klaar. HealthSync stuurt nieuwe waarden automatisch naar je Homey.
+
+AUTOMATISCH SYNCHRONISEREN
+Kies voor elke 5, 10, 15, 20, 30 of 60 minuten. Hartslag, slaap en workouts worden ook direct verstuurd zodra iOS nieuwe data meldt. iOS bepaalt het precieze moment van synchroniseren op de achtergrond, afhankelijk van batterij en gebruik.
+
+180+ SOORTEN GEZONDHEIDSDATA
+Activiteit, hart, slaap, vitale functies, lichaamsmetingen, voeding, mindfulness, cyclus, gehoor, mobiliteit en workouts. Jij bepaalt welke soorten gedeeld worden.
+
+PRIVACY VOOROP
+• Alleen-lezen: HealthSync schrijft of wijzigt nooit je gezondheidsdata
+• Data gaat via HTTPS rechtstreeks van je iPhone naar je eigen Homey
+• Geen servers van de maker, geen account, geen advertenties, geen analytics, geen tracking
+• Je Sync-URL wordt alleen in de iOS-sleutelhanger bewaard
+
+VERDER
+• Lichte en donkere modus
+• Beschikbaar in 13 talen
+• Gemaakt door een Homey-gebruiker, voor Homey-gebruikers
+
+VEREISTEN
+• Een Homey Pro (2019 of nieuwer) of Homey Cloud
+• De gratis "Apple Health"-app voor Homey, te vinden in de Homey App Store
+• iPhone met iOS 17 of nieuwer
+
+HealthSync is geen medisch hulpmiddel en mag niet worden gebruikt voor diagnose, behandeling of noodsituaties. HealthSync is een onafhankelijke app en is niet verbonden aan Apple Inc. of Athom B.V. Homey is een handelsmerk van Athom B.V.
+
+
+v1.0.1 (build 13)
+=================
+
+Promotietekst (max 170)
+Stappen, hartslag, slaap, workouts en 180+ gezondheidswaarden in je Homey. Nu met nauwkeurigere slaapgegevens, precies zoals Apple Health ze toont.
+
+Nieuw in deze versie
+Verbeterde slaapgegevens
+• Je slaaptijd komt nu overeen met Apple Health: overlappende gegevens van je Apple Watch, iPhone of slaap-apps worden niet meer dubbel geteld.
+• Tijd in bed en wakkere tijd worden niet meer bij je slaap opgeteld.
+• Korte dutjes buiten je nachtslaap tellen niet mee.
+• Je Homey ontvangt nu ook tijd in bed, minuten wakker, bedtijd en slaapfasen voor rijkere slaapwidgets en Flows.

@@ -1,0 +1,80 @@
+HealthSync – App Store Connect: general settings & App Review
+================================================================
+
+APP INFORMATION
+Bundle ID ............ nl.lrvdlinden.applehealth.ios
+SKU .................. HEALTHSYNC-HOMEY-001
+Version / Build ...... 1.0.0 (12)
+Primary language ..... English (U.S.)  — add Dutch as localization
+Primary category ..... Utilities
+Secondary category ... Health & Fitness (optional)
+Price ................ Free (no in-app purchases)
+Copyright ............ 2026 PixelForges
+Devices .............. iPhone only (iOS 17.0+)
+Content rights ....... Does not contain third-party content
+Age rating ........... 4+ (answer "None" / "No" to every question; it is not a
+                       medical/treatment app, no unrestricted web access)
+Made for Kids ........ No
+
+APP PRIVACY ("Data Collection")
+Answer: "No, we do not collect data from this app."
+Reason: health data goes directly from the iPhone to the user's OWN Homey; the
+developer never receives it (Apple's definition of "collect" = transmitted off
+device in a way the developer or third parties can access).
+No tracking, no third-party SDKs, no advertising.
+
+EXPORT COMPLIANCE
+Uses encryption? Yes -> only standard HTTPS/TLS (exempt).
+Build 12 has ITSAppUsesNonExemptEncryption = NO in Info.plist, so this question is skipped.
+
+HEALTHKIT CHECKS (common rejection points)
+• HealthKit capability ON, NSHealthShareUsageDescription present (read only).
+• Do NOT request write access (NSHealthUpdateUsageDescription) — app is read-only.
+• Privacy policy URL is mandatory for HealthKit apps and must be reachable.
+• Do not use "Apple" in the app name/icon; "Apple Health" may only appear as a
+  compatibility reference in description/screenshots (Guideline 5.2.5).
+• Optional: use the official "Works with Apple Health" badge only per Apple's
+  HealthKit marketing guidelines.
+
+APP REVIEW INFORMATION
+Sign-in required ..... No (no account). Leave demo account empty.
+Contact .............. Léon van der Linden · homey@vdlinden.xyz · <your phone>
+Attachment ........... Recommended: a 30–60 s screen recording showing
+                       Homey app -> copy Sync URL -> paste in HealthSync ->
+                       sync -> values visible in Homey.
+
+Notes for the reviewer (paste in "Notes"):
+-----------------------------------------
+HealthSync is a companion app for the Homey smart home hub (by Athom B.V.).
+It reads (read-only) HealthKit data the user approves and sends it over HTTPS
+directly to the user's own Homey via the Homey cloud connection
+(*.connect.athom.com). There is no developer server, no account, no analytics.
+
+How to test without a Homey:
+1. Open the app and tap "Authorize Apple Health"; approve some types.
+2. Open "All Health Data" to see the values read from HealthKit.
+3. Paste this test Sync URL in section 1 and tap "Save & test connection":
+   <PASTE A WORKING TEST SYNC URL FROM YOUR OWN HOMEY HERE>
+4. Tap "Sync now" — the status shows the result of the sync.
+5. Settings -> Auto sync lets the user choose 5–60 minutes (BGAppRefreshTask);
+   HealthKit background delivery is used for heart rate, sleep and workouts.
+A screen recording of the full flow with a real Homey is attached.
+
+The app does not provide medical advice or diagnosis. It is not affiliated
+with Apple Inc. or Athom B.V.
+
+SCREENSHOTS — WHICH TO UPLOAD
+App Store Connect only REQUIRES the 6.9" set (1320x2868); smaller sizes are
+scaled from it automatically. All sizes are included in case you want to
+upload them explicitly:
+  6.9"  1320x2868  (iPhone 16/17 Pro Max)   <- required
+  6.5"  1284x2778 / 1242x2688
+  6.3"  1206x2622
+  6.1"  1179x2556
+  5.5"  1242x2208  (iPhone 8 Plus)
+Upload screenshots/en/... for English and screenshots/nl/... for Dutch.
+Order: 01 main, 02 all data, 03 auto sync, 04 flows, 05 widgets, 06 privacy.
+
+APP ICON
+icon/AppIcon-1024.png — 1024x1024, RGB, no transparency (already in the build's
+asset catalog; App Store Connect takes it from the build).

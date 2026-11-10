@@ -1,0 +1,89 @@
+App Store Connect – HealthSync (English, U.S. / U.K.)
+=====================================================
+
+Name (max 30)
+HealthSync
+
+Subtitle (max 30)
+Sync your health data to Homey
+
+Promotional Text (max 170)
+Bring steps, heart rate, sleep, workouts and 180+ other health values to your Homey. Trigger Flows, show widgets and keep your data private.
+
+Keywords (max 100 bytes, no spaces after commas)
+healthkit,homey,smart home,automation,flow,steps,heart rate,sleep,hrv,workout,widget,athom
+
+Support URL
+https://community.homey.app/t/app-pro-apple-health/160608
+
+Marketing URL
+https://github.com/LRvdLinden/Apple-HealthSync-ios
+
+Privacy Policy URL
+https://lrvdlinden.github.io/Apple-HealthSync-ios/privacy-en.html
+(host privacy-policy/privacy-en.html here, e.g. via GitHub Pages)
+
+What's New in This Version
+First release of HealthSync for Homey.
+
+• Sync Apple Health data to your own Homey
+• 180+ health data types, read-only
+• Auto sync every 5 to 60 minutes
+• Instant updates for heart rate, sleep and workouts
+• Dark mode and 13 languages
+
+Description (max 4000)
+-----------------------------------------
+HealthSync connects the health data on your iPhone to your Homey smart home. Steps, heart rate, sleep, workouts, blood oxygen and more than 180 other data types arrive in Homey as live values, so your home can respond to how you are doing.
+
+WHAT YOU CAN DO
+• Turn on the bedroom lights softly when you wake up
+• Start the coffee machine when your sleep is over
+• Play a sound when you close all three Activity rings
+• Get a notification when your heart rate goes above a value you choose
+• Show beautiful health widgets on your Homey dashboard
+• Keep history in Homey Insights
+
+HOW IT WORKS
+1. Install the free Apple Health app on your Homey and add the device.
+2. Copy the private Sync URL from the device settings.
+3. Paste it into HealthSync and choose which health data you want to share.
+That's it. HealthSync sends new values to your Homey automatically.
+
+AUTOMATIC SYNC
+Choose to sync every 5, 10, 15, 20, 30 or 60 minutes. Heart rate, sleep and workouts are also sent as soon as iOS reports new data. iOS decides the exact moment of background syncs, depending on battery and usage.
+
+180+ HEALTH DATA TYPES
+Activity, heart, sleep, vitals, body measurements, nutrition, mindfulness, cycle tracking, hearing, mobility and workouts. You decide which types are shared.
+
+PRIVATE BY DESIGN
+• Read-only: HealthSync never writes or changes your health data
+• Data goes directly from your iPhone to your own Homey over HTTPS
+• No developer servers, no accounts, no ads, no analytics, no tracking
+• Your Sync URL is stored only in the iOS Keychain
+
+ALSO
+• Light and dark mode
+• Available in 13 languages
+• Made by a Homey user, for Homey users
+
+REQUIREMENTS
+• A Homey Pro (2019 or later) or Homey Cloud
+• The free "Apple Health" app for Homey, available in the Homey App Store
+• iPhone with iOS 17 or later
+
+HealthSync is not a medical device and must not be used for diagnosis, treatment or emergencies. HealthSync is an independent app and is not affiliated with Apple Inc. or Athom B.V. Homey is a trademark of Athom B.V.
+
+
+v1.0.1 (build 13)
+=================
+
+Promotional Text (max 170)
+Steps, heart rate, sleep, workouts and 180+ health values in your Homey. Now with more accurate sleep tracking, just like Apple Health shows it.
+
+What's New in This Version
+Improved sleep tracking
+• Time asleep now matches Apple Health: overlapping data from your Apple Watch, iPhone or sleep apps is no longer counted twice.
+• Time in bed and awake time are no longer added to your sleep.
+• Short naps outside your main night are ignored.
+• Your Homey now also receives time in bed, awake minutes, bedtime and sleep stages for richer sleep widgets and Flows.
