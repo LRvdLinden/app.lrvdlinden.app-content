@@ -1,0 +1,43 @@
+Dear Apple App Review Team,
+
+Bingr is a standalone IPTV and personal media player for iOS, iPadOS, tvOS and macOS. The app lets users play content from their own legally authorized media sources.
+
+Bingr does not provide, sell, host or distribute television channels, movies, series, IPTV subscriptions or any other media content. Users supply their own sources and are responsible for having the rights to access them.
+
+SUPPORTED SOURCES
+
+Xtream Codes API, M3U/M3U8 playlists, MAC Portal/Stalker, Plex, Jellyfin, Emby, Stremio and local NAS media servers via SMB.
+
+Features include live TV with a redesigned TV guide (EPG) and live channel preview, movie and series libraries, profiles, parental controls, watchlists, viewing-progress sync and multiview where supported.
+
+IN-APP PURCHASE: BINGR LIFETIME
+
+Bingr Lifetime (nl.lrvdlinden.bingr.lifetime) is a one-time, non-consumable in-app purchase that unlocks the full app: up to 3 screens at once, 15 devices, unlimited servers, statistics, Trakt, themes, kids profiles and subtitles. From 1 December 2026 Bingr is available with Lifetime only; existing users keep their data.
+
+DEMO ACCOUNT
+
+The demo account in Sign-In Information is intentionally on the Free plan, so the in-app purchase flow can be reviewed. The Free plan allows 2 devices and 1 server. The test playlist is already added to this account.
+
+TO TEST THE PURCHASE (please do this first)
+
+1. Launch Bingr and sign in with the demo account.
+2. Go to Settings > Subscription and tap Buy Lifetime.
+3. Complete the purchase with your sandbox Apple ID. Lifetime is activated immediately and unlocks all features on all devices.
+4. Restore Purchases is on the same screen.
+
+TEST PLAYLIST
+
+The test playlist URL is listed in App Store Connect (not stored in this repository). It is already added to the demo account. To add it yourself:
+1. Add a new server and choose M3U Playlist.
+2. Enter the URL and save.
+3. Open Live TV: it starts in the TV guide. Test playback, channel navigation and the guide.
+
+Bingr operates exclusively as a media player and does not supply IPTV content or subscriptions.
+
+For questions during the review, please contact support@bingr.online.
+
+Thank you for reviewing Bingr.
+
+Kind regards,
+Bingr Development Team
+https://bingr.online

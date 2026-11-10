@@ -1,0 +1,21 @@
+New in Bingr 1.0.5
+
+• All-new TV guide
+The TV guide has been completely redesigned. On iPhone the selected channel plays live at the top, with channels on the left and the day's programmes on the right. On iPad and Mac you get a large live preview with Watch live and Start over. On Apple TV the guide uses the full screen: browse the channel columns, and the channel you're on starts playing live in the NOW card after a second.
+
+• Live TV opens in the guide
+Live TV now always starts in the TV guide. Use the existing button to switch to the list.
+
+• Only days with programmes
+The guide now only shows days that have programme information. Earlier days are shown for channels with catch-up.
+
+• Live preview your way
+Choose in Settings whether the live preview in the guide plays always, on Wi-Fi only, or never.
+
+• Bingr Lifetime in the app
+Buy Bingr Lifetime right in the app, with Restore Purchases for your other devices. New to Bingr? Buy Lifetime first, then create your account.
+
+• Bingr is going Lifetime
+From 1 December 2026, Bingr is available with Lifetime only. On Free today? Your servers, lists, profiles and settings stay saved.
+
+Plus small improvements and fixes.
