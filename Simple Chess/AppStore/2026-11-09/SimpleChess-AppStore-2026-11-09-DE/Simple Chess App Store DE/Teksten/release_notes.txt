@@ -1,0 +1,9 @@
+Simple Chess 3 ist eine ganz neue App:
+• Frisches, fröhliches Design mit vier Brettfarben und Dunkelmodus
+• Ein Coach, der erklärt, wie jede Figur zieht
+• Tipps mit Pfeil und kurzer Erklärung
+• Sieh, wohin Figuren ziehen können und welche in Gefahr sind
+• Jeden Zug zurücknehmen
+• Lektionen für jede Figur, Schach, Rochade, Umwandlung und en passant
+• Zusammen spielen oder gegen einen freundlichen Roboter
+• Jetzt auf Deutsch, Englisch, Niederländisch und Französisch

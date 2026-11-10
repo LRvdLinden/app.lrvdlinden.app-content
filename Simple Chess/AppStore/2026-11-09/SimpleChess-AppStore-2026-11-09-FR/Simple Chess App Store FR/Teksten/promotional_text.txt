@@ -1,0 +1,1 @@
+Simple Chess 3 est là : un nouveau look, un coach sympa avec des indices, des leçons pour chaque pièce et un robot pour t'entraîner.
