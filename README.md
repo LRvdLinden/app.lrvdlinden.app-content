@@ -95,4 +95,6 @@ Er is geen repo voor deze website; de bronbestanden (`bron/build.py` en het logo
 - `Noodpakket/OG/`: og:images (1200 × 630, NL) voor noodpakket.lrvdlinden.app: home, support en privacy.
 - `Noodpakket/Socials/`: banners voor algemene promotie van app en website (Instagram/Facebook-post 1:1 en 4:5, story/reels, LinkedIn-post, X/Bluesky/Threads, Facebook- en LinkedIn-cover, Homey-forumbanner en OG), met postteksten en alt-teksten (NL).
 
+Sinds `2026-11-11-2` gebruikt Noodpakket de nieuwe huisstijl (paars en geel, met een 72-uursring als icoon en een afbeelding bij elk onderdeel van het pakket). De sets van `2026-11-11` zijn nog in de oude groene stijl en blijven als historie bewaard.
+
 De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.noodkoffer` (`AppStore/`, `social/`, `web/og/` en `design/appstore-src/`).
