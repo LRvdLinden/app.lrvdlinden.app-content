@@ -89,3 +89,10 @@ De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.bekendr` (`AppS
 - `René Smaal Karate/Socials/`: banners voor algemene promotie van renesmaal.nl (Stichting RSK Apeldoorn) in het Nederlands: Instagram/Facebook-post 1:1 en 4:5, story/reels, LinkedIn-post en de Facebook- en LinkedIn-cover, in de huisstijl van de site (navy, Barlow/Barlow Condensed, clublogo). Met `posts.md` met postteksten en alt-teksten. De links op de banners zijn renesmaal.nl en renesmaal.nl/proefles.
 
 Er is geen repo voor deze website; de bronbestanden (`bron/build.py` en het logo) zitten in de zip zelf.
+
+## Noodpakket
+- `Noodpakket/AppStore/`: App Store-pakket voor versie 1.0.0. Bevat screenshots voor iPhone 6,3" (1206 × 2622), iPhone 6,1" (1179 × 2556) en iPad 13" (2064 × 2752), promobanners (5244 × 2950, 3840 × 1646, 3840 × 2560 en 1920 × 1280), de App Store-teksten, privacyteksten, app-info en App Review-notities, in het Nederlands en Engels.
+- `Noodpakket/OG/`: og:images (1200 × 630, NL) voor noodpakket.lrvdlinden.app: home, support en privacy.
+- `Noodpakket/Socials/`: banners voor algemene promotie van app en website (Instagram/Facebook-post 1:1 en 4:5, story/reels, LinkedIn-post, X/Bluesky/Threads, Facebook- en LinkedIn-cover, Homey-forumbanner en OG), met postteksten en alt-teksten (NL).
+
+De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.noodkoffer` (`AppStore/`, `social/`, `web/og/` en `design/appstore-src/`).
