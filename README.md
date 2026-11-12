@@ -90,6 +90,11 @@ De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.bekendr` (`AppS
 
 Er is geen repo voor deze website; de bronbestanden (`bron/build.py` en het logo) zitten in de zip zelf.
 
+## Bert van de Wiel
+- `Bert van de Wiel/OG/`: og:image (1200 × 630, NL) voor de persoonlijke startpagina bertvandewiel.nl: home.
+
+Er is geen repo voor deze website; het sjabloon (`bron/og.html`) en het renderscript zitten in de zip zelf.
+
 ## Noodpakket
 - `Noodpakket/AppStore/`: App Store-pakket voor versie 1.0.0. Bevat screenshots voor iPhone 6,3" (1206 × 2622), iPhone 6,1" (1179 × 2556) en iPad 13" (2064 × 2752), promobanners (5244 × 2950, 3840 × 1646, 3840 × 2560 en 1920 × 1280), de App Store-teksten, privacyteksten, app-info en App Review-notities, in het Nederlands en Engels.
 - `Noodpakket/OG/`: og:images (1200 × 630, NL) voor noodpakket.lrvdlinden.app: home, support en privacy.
