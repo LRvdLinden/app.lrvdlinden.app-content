@@ -101,6 +101,7 @@ De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.noodkoffer` (`A
 
 ## Pairr
 - `Pairr/Socials/`: banners voor algemene promotie van app en website in NL en EN (aparte sets): Instagram/Facebook-post 1:1 en 4:5, story/reels en de Facebook- en LinkedIn-cover, met per taal `posts.md` met posttekst en alt-teksten. CTA: "Binnenkort in de App Store" en pairr.lrvdlinden.app.
+- `Pairr/AppStore/`: App Store-pakket voor versie 1.0.0 (build 7). Screenshots in NL en EN (de app is meertalig) voor iPhone 6,3" (1206×2622) en 6,1" (1179×2556), iPad 13" (2064×2752) en 12,9" (2048×2732), Mac (2880×1800, 2560×1600, 1440×900, 1280×800) en Apple Watch (416×496 en 422×514), de productpagina-beelden (header 5244×2950 en 3840×1646, zoekresultaten 5244×2950, 3840×2560 en 1920×1280), de teksten in NL en EN in `metadata/`, de privacyverklaring, de review-notities en `app-info.md` met categorie, leeftijd, privacylabel en toegankelijkheid. De schermen zijn nagemaakt in HTML op basis van de SwiftUI-code.
 - `Pairr/OG/`: og:image van pairr.lrvdlinden.app (1200 × 630, Engelse tekst), gebruikt op alle pagina's in NL en EN (home, privacy, support).
 
-De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.pairr` (`tools/web/`, `web/og/`, `tools/social/` en `social/`).
+De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.pairr` (`AppStore/`, `tools/appstore/`, `tools/web/`, `web/og/`, `tools/social/` en `social/`).
