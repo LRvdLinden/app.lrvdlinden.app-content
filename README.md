@@ -98,3 +98,8 @@ Er is geen repo voor deze website; de bronbestanden (`bron/build.py` en het logo
 Sinds `2026-11-11-2` gebruikt Noodpakket de nieuwe huisstijl (paars en geel, met een 72-uursring als icoon en een afbeelding bij elk onderdeel van het pakket). De sets van `2026-11-11` zijn nog in de oude groene stijl en blijven als historie bewaard.
 
 De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.noodkoffer` (`AppStore/`, `social/`, `web/og/` en `design/appstore-src/`).
+
+## Pairr
+- `Pairr/OG/`: og:image van pairr.lrvdlinden.app (1200 × 630, Engelse tekst), gebruikt op alle pagina's in NL en EN (home, privacy, support).
+
+De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.pairr` (`tools/web/` en `web/og/`).
