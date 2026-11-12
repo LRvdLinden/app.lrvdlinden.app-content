@@ -100,6 +100,7 @@ Sinds `2026-11-11-2` gebruikt Noodpakket de nieuwe huisstijl (paars en geel, met
 De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.noodkoffer` (`AppStore/`, `social/`, `web/og/` en `design/appstore-src/`).
 
 ## Pairr
+- `Pairr/Socials/`: banners voor algemene promotie van app en website in NL en EN (aparte sets): Instagram/Facebook-post 1:1 en 4:5, story/reels en de Facebook- en LinkedIn-cover, met per taal `posts.md` met posttekst en alt-teksten. CTA: "Binnenkort in de App Store" en pairr.lrvdlinden.app.
 - `Pairr/OG/`: og:image van pairr.lrvdlinden.app (1200 × 630, Engelse tekst), gebruikt op alle pagina's in NL en EN (home, privacy, support).
 
-De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.pairr` (`tools/web/` en `web/og/`).
+De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.pairr` (`tools/web/`, `web/og/`, `tools/social/` en `social/`).
