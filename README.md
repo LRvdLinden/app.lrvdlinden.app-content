@@ -110,3 +110,8 @@ De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.noodkoffer` (`A
 - `Pairr/OG/`: og:image van pairr.lrvdlinden.app (1200 × 630, Engelse tekst), gebruikt op alle pagina's in NL en EN (home, privacy, support). De set `2026-11-12-2` noemt de prijs (eenmalige aankoop van € 0,99) in plaats van gratis.
 
 De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.pairr` (`AppStore/`, `tools/appstore/`, `tools/web/`, `web/og/`, `tools/social/` en `social/`).
+
+## Kentr
+- `Kentr/Socials/`: banners voor de lancering van de app (NL, de app is alleen Nederlandstalig): Instagram/Facebook-post 1:1 en 4:5, story/reels, LinkedIn-post, X/Bluesky/Threads, Facebook-cover en LinkedIn-cover, met `posts.md` met postteksten en alt-teksten. CTA: "Binnenkort in de App Store" en kent.lrvdlinden.app. De schermen zijn nagebouwd in HTML op basis van de SwiftUI-code; alle kentekens zijn fictief.
+
+De bronbestanden van de socials (`bron/build.py`, de HTML per banner en het icoon) zitten in de zip zelf; de app staat in `LRvdLinden/app.lrvdlinden.Kentr`.
