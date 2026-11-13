@@ -112,6 +112,7 @@ De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.noodkoffer` (`A
 De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.pairr` (`AppStore/`, `tools/appstore/`, `tools/web/`, `web/og/`, `tools/social/` en `social/`).
 
 ## Kentr
+- `Kentr/AppStore/`: App Store-pakket voor versie 1.0.0 (build 1). Bevat screenshots (alleen NL, de app is alleen Nederlandstalig) voor iPhone 6,3" (1206×2622) en 6,1" (1179×2556) en iPad 13" (2064×2752) en 12,9" (2048×2732), 7 per toestel, de productpagina-beelden (header 5244×2950 en 3840×1646, zoekresultaten 5244×2950, 3840×2560 en 1920×1280), de teksten in NL en EN in `metadata/` (naam, ondertitel, promotietekst, beschrijving, trefwoorden, Wat is nieuw, URL's), de privacyverklaring, de review-notities en `app-info.md` met categorie, leeftijd, privacylabel ("Data Not Collected") en toegankelijkheid. De schermen zijn nagemaakt in HTML op basis van de SwiftUI-code, met fictieve kentekens; de bronbestanden (`bron/`) zitten in de zip.
 - `Kentr/Socials/`: banners voor de lancering van de app (NL, de app is alleen Nederlandstalig): Instagram/Facebook-post 1:1 en 4:5, story/reels, LinkedIn-post, X/Bluesky/Threads, Facebook-cover en LinkedIn-cover, met `posts.md` met postteksten en alt-teksten. CTA: "Binnenkort in de App Store" en kent.lrvdlinden.app. De schermen zijn nagebouwd in HTML op basis van de SwiftUI-code; alle kentekens zijn fictief.
 
 De bronbestanden van de socials (`bron/build.py`, de HTML per banner en het icoon) zitten in de zip zelf; de app staat in `LRvdLinden/app.lrvdlinden.Kentr`.

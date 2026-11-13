@@ -1,0 +1,26 @@
+Kentr Privacy Policy
+Last updated: 13 November 2026
+
+Kentr is an app by LRvdLinden (lrvdlinden.app). In short: Kentr has no account, no server of its own and no tracking. The developer does not collect any data.
+
+Data you enter yourself
+The cars you add (licence plate, make, model, period, prices, mileage, notes and photos) are stored on your device. If iCloud is on, they are synced to your other devices through your own private Apple iCloud database. LRvdLinden has no access to this data.
+
+Requests to the RDW
+When you look up or search for a licence plate, the app sends a request directly to the open data service of the RDW (opendata.rdw.nl). It contains only the plate or your search criteria (such as make, model, colour and year). No personal data is sent. The RDW handles the request under its own terms.
+
+Example photos from Wikipedia
+If "Zoek automatisch een voorbeeldfoto" (automatic example photo) is on (default), Kentr looks for a freely licensed photo of the same make and model through the Wikipedia/Wikimedia Commons API (wikipedia.org). Only make, model and year are sent, never the plate or personal data. You can turn this off in Settings › Photos.
+
+Face ID
+If you turn on the app lock, Kentr uses Face ID, Touch ID or your passcode through iOS. The app is only told whether unlocking succeeded; biometric data never leaves your device.
+
+No analytics, ads or tracking
+Kentr contains no analytics, no ads and no third-party tracking. The app stores a few settings locally (such as appearance and when a rating was last requested).
+
+Your rights
+All your data stays with you. Delete a car in the app; if you delete the app and erase its data from iCloud (Settings › [your name] › iCloud), it is gone completely.
+
+Contact
+Questions about privacy? See https://kent.lrvdlinden.app/support/ or lrvdlinden.app.
+Full version (Dutch): https://kent.lrvdlinden.app/privacy/

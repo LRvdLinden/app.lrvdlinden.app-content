@@ -1,0 +1,7 @@
+The first version of Kentr:
+• All your cars in one place, with or without a licence plate
+• Licence plate lookup with RDW data: specs, APK, list price and gross BPM
+• Company car tax benefit estimate
+• Find a forgotten plate by make, model, colour and year
+• Automatic example photo per model
+• Face ID lock and iCloud sync

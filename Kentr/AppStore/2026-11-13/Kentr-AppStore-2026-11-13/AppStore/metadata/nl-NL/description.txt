@@ -1,0 +1,38 @@
+Kentr houdt elke auto bij die je ooit hebt gehad: van je eerste auto tot je huidige. Met kenteken, of alleen merk en type als je het kenteken niet meer weet. Zoek elk Nederlands kenteken op met de openbare gegevens van de RDW en zie in één oogopslag de techniek, de APK en de fiscale waarde.
+
+MIJN AUTO'S
+• Voeg auto's toe met kenteken of alleen merk, model en bouwjaar
+• Periode van bezit, ook als je alleen de jaartallen nog weet
+• Hoe je de auto kreeg, aankoop- en verkoopprijs, kilometerstanden en notities
+• Eigen foto, of automatisch een voorbeeldfoto van hetzelfde model (Wikimedia Commons, met bronvermelding)
+• Zoek in je lijst op merk, model, kenteken, kleur of jaar
+
+KENTEKEN OPZOEKEN
+• Merk, model, carrosserie, kleur, brandstof, vermogen, gewicht en verbruik
+• APK-vervaldatum, kilometerstandoordeel, WAM-verzekering en open terugroepacties
+• Zie direct of een auto is geïmporteerd: eerste toelating en eerste toelating in Nederland
+• Voeg een opgezochte auto met één tik toe aan je eigen lijst
+
+FISCALE WAARDE EN BIJTELLING
+• Catalogusprijs (de fiscale waarde), bruto BPM en CO2-uitstoot
+• Indicatie van de bijtelling per maand en per jaar: 22%, het verlaagde tarief voor elektrische auto's met de grens per startjaar, de regel van 60 maanden en youngtimers (35% van de dagwaarde)
+• Een indicatie, geen fiscaal advies
+
+KENTEKEN TERUGVINDEN
+• Kenteken van je oude auto vergeten? Zoek in de RDW-gegevens op merk, model, kleur en bouwjaar
+• Herken je oude kenteken in de lijst en koppel het met één tik aan je auto
+• De RDW publiceert geen eigenaren: Kentr laat auto's zien die bij je omschrijving passen
+
+OVERZICHT
+• Hoeveel auto's en merken je had, totale en gemiddelde bezitsduur
+• Je langst gehouden en je eerste auto, zelf gereden kilometers
+• Verdeling per merk, brandstof en decennium
+
+VEILIG EN PRIVÉ
+• Vergrendel de app met Face ID
+• Synchroniseert via je eigen iCloud met je iPhone en iPad
+• Geen account, geen advertenties, geen tracking en geen eigen server
+
+Kentr gebruikt open data van de RDW (opendata.rdw.nl) en is geen app van de RDW of de Belastingdienst.
+
+Meer apps van de ontwikkelaar vind je op lrvdlinden.app.

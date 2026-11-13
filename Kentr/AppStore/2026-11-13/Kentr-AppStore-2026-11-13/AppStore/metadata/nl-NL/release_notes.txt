@@ -1,0 +1,7 @@
+De eerste versie van Kentr:
+• Al je auto's op één plek, met of zonder kenteken
+• Kenteken opzoeken bij de RDW: techniek, APK, catalogusprijs en bruto BPM
+• Indicatie van de bijtelling
+• Vergeten kenteken terugvinden op merk, model, kleur en bouwjaar
+• Automatische voorbeeldfoto per model
+• Face ID-vergrendeling en synchronisatie via iCloud

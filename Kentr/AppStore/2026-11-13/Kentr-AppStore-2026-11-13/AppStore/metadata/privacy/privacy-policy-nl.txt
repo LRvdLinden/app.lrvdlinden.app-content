@@ -1,0 +1,26 @@
+Privacyverklaring Kentr
+Laatst bijgewerkt: 13 november 2026
+
+Kentr is een app van LRvdLinden (lrvdlinden.app). Kort gezegd: Kentr heeft geen account, geen eigen server en geen tracking. De ontwikkelaar verzamelt geen gegevens.
+
+Gegevens die je zelf invoert
+De auto's die je toevoegt (kenteken, merk, model, periode, prijzen, kilometerstanden, notities en foto's) worden op je apparaat opgeslagen. Staat iCloud aan, dan worden ze via je eigen privé-iCloud-database van Apple gesynchroniseerd met je andere apparaten. LRvdLinden heeft geen toegang tot deze gegevens.
+
+Opvragen bij de RDW
+Als je een kenteken opzoekt of terugvindt, stuurt de app een verzoek rechtstreeks naar de open-data-dienst van de RDW (opendata.rdw.nl). Daarin staan alleen het kenteken of je zoekcriteria (zoals merk, model, kleur en bouwjaar). Er worden geen persoonsgegevens meegestuurd. De RDW verwerkt dit verzoek volgens haar eigen voorwaarden.
+
+Voorbeeldfoto's van Wikipedia
+Staat "Zoek automatisch een voorbeeldfoto" aan (standaard), dan zoekt Kentr een vrije foto van hetzelfde merk en model via de API van Wikipedia/Wikimedia Commons (wikipedia.org). Daarbij worden alleen merk, model en bouwjaar meegestuurd, geen kenteken en geen persoonsgegevens. Je kunt dit uitzetten in Instellingen › Foto's.
+
+Face ID
+Als je de app-vergrendeling aanzet, gebruikt Kentr Face ID, Touch ID of je toegangscode via iOS. De app krijgt alleen te horen of het ontgrendelen gelukt is; biometrische gegevens verlaten nooit je apparaat.
+
+Geen analytics, advertenties of tracking
+Kentr bevat geen analytics, geen advertenties en geen tracking van derden. De app slaat een paar instellingen lokaal op (zoals weergave en het moment waarop om een beoordeling is gevraagd).
+
+Je rechten
+Al je gegevens staan bij jou. Je verwijdert een auto in de app; als je de app verwijdert en de gegevens uit iCloud wist (Instellingen › [je naam] › iCloud), zijn ze helemaal weg.
+
+Contact
+Vragen over privacy? Kijk op https://kent.lrvdlinden.app/support/ of lrvdlinden.app.
+Volledige versie: https://kent.lrvdlinden.app/privacy/

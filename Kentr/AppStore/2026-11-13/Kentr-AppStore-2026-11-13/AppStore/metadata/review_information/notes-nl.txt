@@ -1,0 +1,34 @@
+(Nederlandse kopie voor Léon – niet uploaden; in App Store Connect gaat notes.txt in het Engels)
+
+WAT DE APP DOET
+Met Kentr houden mensen in Nederland een eigen lijst bij van alle auto's die ze hebben gehad, met of zonder kenteken. Voor Nederlandse kentekens toont de app openbare voertuiggegevens van RDW Open Data: techniek, APK-vervaldatum, catalogusprijs (fiscale waarde), bruto BPM en een indicatie van de bijtelling. Ook helpt de app om het vergeten kenteken van een oude auto terug te vinden. De app is Nederlandstalig.
+
+ZO TEST JE
+1. Start de app: geanimeerd splashscreen (ca. 4 seconden), daarna een welkomstscherm van 3 pagina's. Tik twee keer op "Volgende" en dan op "Aan de slag" (of "Overslaan").
+2. Tab "Terugvinden": vul Merk "VOLKSWAGEN" en Model "Golf" in, kies Van 2015 en Tot en met 2015 en tik op "Zoek kentekens". Er verschijnt een lijst met passende kentekens. Tik op een resultaat voor alle RDW-gegevens, tik op "Dit was mijn auto – toevoegen" en "Bewaar".
+3. Tab "Opzoeken": typ een willekeurig Nederlands kenteken van 6 tekens (bijvoorbeeld uit stap 2) en tik op de zoekknop. Je ziet de voertuiggegevens, "Fiscaal" (catalogusprijs, BPM, eerste toelating) en "Bijtelling (indicatie)". Met "Toevoegen aan mijn auto's" voeg je hem toe.
+4. Tab "Mijn auto's": tik op + om handmatig een auto toe te voegen. Laat het kenteken leeg en vul alleen Merk, Model en een bouwjaar in: de auto wordt bewaard met "Kenteken onbekend". Open hem en tik op "Kenteken terugvinden".
+5. Tab "Overzicht": statistieken over de bewaarde auto's (aantal, merken, bezitsduur, brandstof, decennium).
+6. Tab "Instellingen": "Vergrendel met Face ID", automatische voorbeeldfoto, weergave, links naar privacyverklaring en support, "Wat is nieuw", welkomstscherm opnieuw tonen en de kaart "Meer apps van de ontwikkelaar".
+
+REGIO EN GEGEVENS
+Alleen in Nederland geregistreerde voertuigen. Buitenlandse kentekens geven "Niet gevonden"; dat is de bedoeling. Bij Terugvinden zijn de resultaten beperkt tot 200. De bijtelling is een indicatie volgens de regels t/m 2027, met de vermelding "geen fiscaal advies".
+
+GEGEVENSBRONNEN
+- RDW Open Data (opendata.rdw.nl), datasets "Gekentekende voertuigen" en "Brandstof": openbare open data, vrij te hergebruiken, geen API-sleutel. De RDW publiceert geen eigenaren en de app toont geen persoonsgegevens. Geen band met de RDW of de Belastingdienst; in de app staat "Bron: RDW Open Data".
+- Voorbeeldfoto's: API van Wikipedia/Wikimedia Commons (vrij gelicenseerd), met maker en licentie en de tekst "Voorbeeldfoto, niet jouw auto". Alleen merk, model en bouwjaar worden meegestuurd. Uit te zetten in Instellingen.
+
+TOESTEMMINGEN
+- Face ID: alleen als de gebruiker "Vergrendel met Face ID" aanzet (standaard uit).
+- Foto's: via de systeemfotokiezer (PHPicker), geen toestemming voor de fotobibliotheek nodig.
+- Geen locatie, contacten, camera, tracking of meldingen.
+
+ACCOUNT
+Geen inlog. Gegevens staan op het toestel en in de eigen privé-iCloud-database van de gebruiker (CloudKit). De achtergrondmodus remote-notification is alleen voor stille CloudKit-synchronisatie; de app toont geen meldingen.
+
+AANKOPEN / ADVERTENTIES
+Gratis, geen in-app-aankopen, abonnementen of advertenties.
+
+OVERIG
+- Beoordelingsverzoek (requestReview) hooguit eens per week, op z'n vroegst 4 uur na het eerste gebruik, nooit tijdens splash, welkomstscherm of vergrendeling.
+- In Instellingen staat de kaart "Meer apps van de ontwikkelaar" naar lrvdlinden.app.

@@ -1,0 +1,40 @@
+Kentr keeps track of every car you have ever owned, from your first car to the one you drive today. With a licence plate, or just the make and model if you no longer remember the plate. Look up any Dutch licence plate using the public open data of the RDW (the Dutch vehicle authority) and see the specs, the APK (MOT) and the tax value at a glance.
+
+The app is available in Dutch and is made for cars registered in the Netherlands.
+
+MY CARS
+• Add cars with a licence plate or with just make, model and year
+• Period of ownership, even if you only remember the years
+• How you got the car, purchase and sale price, mileage and notes
+• Your own photo, or an automatic example photo of the same model (Wikimedia Commons, with attribution)
+• Search your list by make, model, plate, colour or year
+
+LICENCE PLATE LOOKUP
+• Make, model, body type, colour, fuel, power, weight and consumption
+• APK expiry date, odometer verdict, insurance status and open recalls
+• See right away whether a car was imported: first registration and first registration in the Netherlands
+• Add a car you looked up to your own list with one tap
+
+TAX VALUE AND COMPANY CAR BENEFIT
+• List price (the tax value), gross BPM and CO2 emissions
+• Estimate of the Dutch company car tax benefit (bijtelling) per month and per year: 22%, the reduced rate for electric cars with its cap per starting year, the 60-month rule and youngtimers (35% of the current value)
+• An estimate, not tax advice
+
+FIND A FORGOTTEN PLATE
+• Forgot the plate of your old car? Search the RDW data by make, model, colour and year
+• Recognise your old plate in the list and link it to your car with one tap
+• The RDW does not publish owners: Kentr shows cars that match your description
+
+OVERVIEW
+• How many cars and makes you have had, total and average ownership
+• Your longest-kept and your first car, kilometres you drove
+• Breakdown by make, fuel and decade
+
+SAFE AND PRIVATE
+• Lock the app with Face ID
+• Syncs with your iPhone and iPad through your own iCloud
+• No account, no ads, no tracking and no server of our own
+
+Kentr uses open data from the RDW (opendata.rdw.nl) and is not an app of the RDW or the Dutch Tax Administration.
+
+More apps from the developer: lrvdlinden.app
