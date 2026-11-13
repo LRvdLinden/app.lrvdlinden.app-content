@@ -11,7 +11,7 @@ Indeling: `<App>/<Soort>/<JJJJ-MM-DD>/`. In elke datummap staat de zip en ernaas
 De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.pasr` (`appstore/` en `social/`).
 
 ## A-Alerts
-- `A-Alerts/AppStore/`: App Store-pakketten. 2.0.0 (2026-11-08) in één zip. 2.0.1 (build 68, 2026-11-09, met het tabblad Nieuws, AMBER Alert en Vermist Kind Alert) in twee zips vanwege de limiet van 100 MB per bestand: `-iPhone` (iPhone 6,3" en 6,1", marketingbeelden, teksten NL en EN, review-notities, privacy) en `-iPad-Mac-Watch-TV` (screenshots voor iPad, Mac, Apple Watch en Apple TV). Screenshots alleen NL.
+- `A-Alerts/AppStore/`: App Store-pakketten. 2.0.0 (2026-11-08) in één zip. 2.0.1 (build 68, 2026-11-09, met het tabblad Nieuws, AMBER Alert en Vermist Kind Alert) in twee zips vanwege de limiet van 100 MB per bestand: `-iPhone` (iPhone 6,3" en 6,1", marketingbeelden, teksten NL en EN, review-notities, privacy) en `-iPad-Mac-Watch-TV` (screenshots voor iPad, Mac, Apple Watch en Apple TV). Screenshots alleen NL. Op 2026-11-13 zijn de afbeeldingen van 2.0.1 vernieuwd met schermen uit build 84 (teksten ongewijzigd), weer in twee zips: `2026-11-13/A-Alerts-AppStore-2026-11-13-iPhone.zip` en `-iPad-Mac-Watch-TV.zip`.
 - `A-Alerts/Socials/`: banners (Instagram/Facebook post 1:1 en 4:5, story/reels, Facebook- en LinkedIn-cover), OG-afbeeldingen van a-alerts.nl en postteksten met alt-teksten (NL). Per datum een map; vanaf 2026-11-10 met de iconen van AMBER Alert en Vermist Kind en posts over het tabblad Nieuws. 2026-11-11: Instagram-banners (post 1:1 en 4:5, story) over live helikopters volgen en het verkeer.
 
 De bronbestanden staan in de app-repo `LRvdLinden/p2000-apeldoorn` (branch `a-alerts`: `AppStore/`, `social/` en `website/og/`).
