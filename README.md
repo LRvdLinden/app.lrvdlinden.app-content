@@ -120,6 +120,7 @@ De bronbestanden van de socials (`bron/build.py`, de HTML per banner en het icoo
 ## 112Heli
 - `112Heli/OG/`: og:images van 112heli.lrvdlinden.app (1200 × 630, alleen NL): home (ook voor privacy, support en 404), live kaart en toestellen (ook voor een los toestel), met een `README.md` met alt-teksten. De set `2026-11-14-2` gebruikt de EC135 als standaard-Zulu in plaats van de AW139.
 
+- `112Heli/AppStore/`: App Store-pakket voor versie 1.0.0 (build 7). Screenshots alleen in NL (de app is alleen Nederlandstalig) voor iPhone 6,3" (1206×2622) en 6,1" (1179×2556), iPad 13" (2064×2752) en 12,9" (2048×2732), Mac (2880×1800, 2560×1600, 1440×900, 1280×800) en Apple TV (3840×2160 en 1920×1080), de productpagina-beelden (header 5244×2950 en 3840×1646, zoekresultaten 5244×2950, 3840×2560 en 1920×1280), de teksten in NL en EN in `metadata/`, de privacyverklaring (ook voor Apple TV), de review-notities en `app-info.md` met categorie, leeftijd, privacylabel en toegankelijkheid. De schermen zijn nagebouwd in HTML op basis van de SwiftUI-code; bronnen in `tools/appstore/` van de app-repo.
 - `112Heli/Socials/`: banners voor algemene promotie van app en website (alleen NL): Instagram/Facebook-post 1:1 en 4:5, story/reels en LinkedIn-post, met `posts.md` met postteksten en alt-teksten. CTA: "Binnenkort in de App Store" en 112heli.lrvdlinden.app.
 
 De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.112heli` (`website/og/`, `social/src/` en `social/`).
