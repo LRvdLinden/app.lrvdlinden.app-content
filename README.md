@@ -118,6 +118,8 @@ De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.pairr` (`AppSto
 De bronbestanden van de socials (`bron/build.py`, de HTML per banner en het icoon) zitten in de zip zelf; de app staat in `LRvdLinden/app.lrvdlinden.Kentr`.
 
 ## 112Heli
-- `112Heli/OG/`: og:images van 112heli.lrvdlinden.app (1200 × 630, alleen NL): home (ook voor privacy, support en 404), live kaart en toestellen (ook voor een los toestel), met een `README.md` met alt-teksten.
+- `112Heli/OG/`: og:images van 112heli.lrvdlinden.app (1200 × 630, alleen NL): home (ook voor privacy, support en 404), live kaart en toestellen (ook voor een los toestel), met een `README.md` met alt-teksten. De set `2026-11-14-2` gebruikt de EC135 als standaard-Zulu in plaats van de AW139.
 
-De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.112heli` (`website/og/`, op de site in `website/web/og/`).
+- `112Heli/Socials/`: banners voor algemene promotie van app en website (alleen NL): Instagram/Facebook-post 1:1 en 4:5, story/reels en LinkedIn-post, met `posts.md` met postteksten en alt-teksten. CTA: "Binnenkort in de App Store" en 112heli.lrvdlinden.app.
+
+De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.112heli` (`website/og/`, `social/src/` en `social/`).
