@@ -124,3 +124,9 @@ De bronbestanden van de socials (`bron/build.py`, de HTML per banner en het icoo
 - `112Heli/Socials/`: banners voor algemene promotie van app en website (alleen NL): Instagram/Facebook-post 1:1 en 4:5, story/reels en LinkedIn-post, met `posts.md` met postteksten en alt-teksten. CTA: "Binnenkort in de App Store" en 112heli.lrvdlinden.app. De set `2026-11-15` is in de nieuwe blauwe huisstijl en heeft ook een Facebook-omslag (1640×624) en LinkedIn-omslag (1584×396).
 
 De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.112heli` (`website/og/`, `social/src/` en `social/`).
+
+## MV3
+- `MV3/OG/`: og:image van mv3.lrvdlinden.app (1200 × 630, alleen NL) voor de homepage, met een `README.md` met de alt-tekst. Website door PixelForges.
+- `MV3/Socials/`: banners voor algemene promotie van de website (alleen NL): Instagram/Facebook-post 1:1 en 4:5 en story/reels, met `posts.md` met postteksten en alt-teksten. CTA: mv3.lrvdlinden.app.
+
+De bronbestanden staan in de repo `LRvdLinden/app.lrvdlinden.112heli`, map `mv3/` (`mv3/tools/` voor de og-afbeelding, `mv3/social/` voor de banners).
