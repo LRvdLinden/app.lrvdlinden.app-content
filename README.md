@@ -126,7 +126,7 @@ De bronbestanden van de socials (`bron/build.py`, de HTML per banner en het icoo
 De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.112heli` (`website/og/`, `social/src/` en `social/`).
 
 ## MV3
-- `MV3/OG/`: og:image van mv3.lrvdlinden.app (1200 × 630, alleen NL) voor de homepage, met een `README.md` met de alt-tekst. Website door PixelForges.
-- `MV3/Socials/`: banners voor algemene promotie van de website (alleen NL): Instagram/Facebook-post 1:1 en 4:5 en story/reels, met `posts.md` met postteksten en alt-teksten. CTA: mv3.lrvdlinden.app.
+- `MV3/OG/`: og:image van mv3jet.nl (de set `2026-11-15` nog met het oude adres mv3.lrvdlinden.app) (1200 × 630, alleen NL) voor de homepage, met een `README.md` met de alt-tekst. Website door PixelForges.
+- `MV3/Socials/`: banners voor algemene promotie van de website (alleen NL): Instagram/Facebook-post 1:1 en 4:5 en story/reels, met `posts.md` met postteksten en alt-teksten. CTA: mv3jet.nl (vanaf de set `2026-11-15-2`; de eerste set noemt nog mv3.lrvdlinden.app).
 
 De bronbestanden staan in de repo `LRvdLinden/app.lrvdlinden.112heli`, map `mv3/` (`mv3/tools/` voor de og-afbeelding, `mv3/social/` voor de banners).
