@@ -21,6 +21,8 @@ De bronbestanden staan in de app-repo `LRvdLinden/p2000-apeldoorn` (branch `a-al
 - `Weekdot/Socials/`: banners (Instagram/Facebook post 1:1 en 4:5, story/reels, Facebook- en LinkedIn-cover, Homey-forumbanner) met postteksten en alt-teksten (NL), plus de OG-afbeeldingen van weekdot.com (NL en EN).
 - `Weekdot/Homey/`: Store-assets van de Homey-app `nl.lrvdlinden.weekdot` 1.0.2: icon.svg, app-afbeeldingen small/large/xlarge, previews van de 7 widgets (licht en donker), de forumbanner en het forumtopic met de changelog.
 
+- `Weekdot/AppStore/Weekdot-AppStore-iPhoneDuo-2026-11-20.zip`: 8 iPhone Duo-screenshots (binnenscherm 2007×2853, staand) in NL en EN, gemaakt met `appstore/tools/duo.js` op basis van de iPad-opnames (zelfde regular-indeling), voor versie 1.0.5.
+
 De bronbestanden staan in de app-repo `LRvdLinden/weekdot` (`appstore/`, `social/`, `website/og/` en `nl.lrvdlinden.weekdot/`).
 
 ## Simple Chess
