@@ -59,6 +59,7 @@ De bronbestanden staan in de app-repo's `LRvdLinden/Apple-HealthSync-ios` (`apps
 
 ## Liftr
 - `Liftr/AppStore/`: App Store-pakket voor versie 1.0.0, in NL en EN. Bevat screenshots voor iPhone 6,3" en 6,1", iPad 13" en Apple Watch (6 maten), promobeelden (header 5244×2950 en 3840×1646, zoekresultaten 5244×2950, 3840×2560 en 1920×1280), de teksten in `metadata/` (naam, ondertitel, promotietekst, beschrijving, trefwoorden, Wat is nieuw, URL's), de review-notities, de privacyverklaring en `app-info.md` met categorie, leeftijd, privacylabel, toegankelijkheid en de medische-hulpmiddelverklaring.
+- `Liftr/AppStore/Liftr-AppStore-iPhoneDuo-2026-11-22.zip`: aanvulling met iPhone Duo-screenshots in NL en EN: buitenscherm 1398×2034 (7 per taal) en binnenscherm 2007×2853 (5 per taal).
 - `Liftr/Socials/`: banners in NL en EN voor Instagram/Facebook (post 1:1 en 4:5), story/reels en de Facebook- en LinkedIn-cover, met per taal een `posts.md` met postteksten en alt-teksten. De link op de banners is liftr.nu.
 
 De bronbestanden staan in de app-repo `LRvdLinden/nl.lrvdlinden.liftr` (`AppStore/`, `social/`, `tools/appstore/` en `tools/social/`).
