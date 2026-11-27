@@ -1,0 +1,5 @@
+• Tickets van zaken: meld je gratis aan via de link of QR-code van een zaak. Je ticket staat in Pasr in de stijl van Apple Wallet, met logo, datum, tijd, deuren, locatie met Route en een grote QR-code. Tickets voor hetzelfde event staan samen; veeg naar het volgende ticket.
+• Je krijgt een melding de dag ervoor, als er iets verandert en als je van de wachtlijst doorschuift.
+• Klantenkaart van een zaak: met barcode, korting nu of de volgende, je spaarstand en een melding bij nieuwe korting.
+• Voeg toe aan Pasr: tik op de knop op de site van een zaak of open een pasr.nl/add-link, en Pasr laat zien wat je toevoegt.
+• Tickets en klantenkaarten van zaken kun je ook in Apple Wallet zetten.
