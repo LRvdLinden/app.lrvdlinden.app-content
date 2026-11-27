@@ -7,8 +7,9 @@ Indeling: `<App>/<Soort>/<JJJJ-MM-DD>/`. In elke datummap staat de zip en ernaas
 ## Pasr
 - `Pasr/AppStore/`: App Store-pakket (screenshots per toestel, promobeelden, teksten NL en EN, review-notities, privacy).
 - `Pasr/Socials/`: banners en postteksten voor Instagram/Facebook (post en story), met alt-teksten.
-- `Pasr/OG/`: OG-afbeeldingen van pasr.nl per datum (zip), nu `/zakelijk/` (Nederlands). Bron: `tools/og/` in LRvdLinden/app.lrvdlinden.pasr, gepubliceerd in `website/og/`.
+- `Pasr/OG/`: OG-afbeeldingen van pasr.nl per datum (zip én uitgepakte map), homepage en `/zakelijk/` (Nederlands). Bron: `tools/og/` in LRvdLinden/app.lrvdlinden.pasr, gepubliceerd in `website/og/`.
   2026-11-23: voorbeeld van de OG-afbeelding per stempelkaart (`/zakelijk/kaart/<kaart-id>/`, Nederlands, 1200×630). Op de site krijgt elke gepubliceerde kaart er automatisch een (`/og/zakelijk/<kaart-id>.png`). Bron: `tools/make_kaart_pages.py` in LRvdLinden/app.lrvdlinden.pasr (branch `gedeelde-pasr`).
+  2026-11-27: `Pasr-OG-2026-11-27.zip` plus dezelfde bestanden uitgepakt in de map `Pasr-OG-2026-11-27/`: `home-nl.png` (pasr.nl, Pasr voor klanten) en `zakelijk-nl.png` (pasr.nl/zakelijk/ en zakelijk-subpagina's, Pasr Zakelijk), beide Nederlands, 1200×630. Bron: `tools/og/build_og_html.py` en `tools/og/render.py` in LRvdLinden/app.lrvdlinden.pasr, gepubliceerd in `website/og/`.
 
 De bronbestanden staan in de app-repo `LRvdLinden/app.lrvdlinden.pasr` (`appstore/` en `social/`).
 
